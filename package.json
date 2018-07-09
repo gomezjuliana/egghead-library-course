@@ -1,0 +1,26 @@
+{
+  "name": "egghead-library-course",
+  "version": "1.0.0",
+  "description": "following the egghead course",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gomezjuliana/egghead-library-course.git"
+  },
+  "keywords": [
+    "starwars",
+    "random"
+  ],
+  "author": "Juliana Gomez <juliana@gomezjuliana.com> (http://gomezjuliana.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gomezjuliana/egghead-library-course/issues"
+  },
+  "homepage": "https://github.com/gomezjuliana/egghead-library-course#readme",
+  "dependencies": {
+    "unique-random-array": "1.0.1"
+  }
+}
