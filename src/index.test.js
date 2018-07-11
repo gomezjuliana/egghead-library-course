@@ -1,5 +1,5 @@
-var expect = require("chai").expect;
-var names = require("./index");
+import { expect } from "chai";
+import names from "./index";
 
 describe("egghead-library-course", function() {
   describe("all", function() {
